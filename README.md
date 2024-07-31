@@ -1,16 +1,16 @@
-## Hi there 👋
+ ### _Boas vindas ao meu perfil_ 
 
-<!--
-**BeatrizdosSantos1e/BeatrizdosSantos1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Beatriz dos Santos
+- Estou estudando pela plataforma do Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Para voc entrar em contato comigo
+00001103927048SP@al.educacao.sp.gov.br
+
+@beatrizaxx_
+
+![](https://media1.tenor.com/m/aPgTU-Z9j1MAAAAd/funny-dogs-cute.gif)
+
+
