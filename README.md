@@ -6,7 +6,7 @@ Me chamo Beatriz dos Santos
 - Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos 
 
 
-### Para voc entrar em contato comigo
+### Para você entrar em contato comigo
 00001103927048SP@al.educacao.sp.gov.br
 
 @beatrizaxx_
